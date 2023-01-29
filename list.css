@@ -1,0 +1,12 @@
+.list{
+	background-color: #efefef;
+	width: 420px;
+	height: 594px;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 1.0);
+	text-align: center;
+}
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
